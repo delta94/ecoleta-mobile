@@ -1,6 +1,6 @@
-## DevRadar Mobile (React Native)
+## Ecoleta Mobile (React Native)
 
-<img src="https://github.com/vbeloti/devradar-mobile/blob/master/.github/devradar-1.jpg?raw=true" alt="DevRadar" />
+<img src="https://github.com/vbeloti/ecoleta-mobile/blob/master/.github/ecoleta-1.jpg?raw=true" alt="Ecoleta" />
 
 In the project directory, you can run:
 
