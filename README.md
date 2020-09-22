@@ -1,4 +1,4 @@
-## Ecoleta Mobile (React Native)
+## Ecoleta Mobile (React Native && Typescript)
 
 <img src="https://github.com/vbeloti/ecoleta-mobile/blob/master/.github/ecoleta-1.jpg?raw=true" alt="Ecoleta" />
 
